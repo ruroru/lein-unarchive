@@ -5,7 +5,7 @@ A Leiningen plugin to extract tar.gz and zip archives.
 ## installation
 Add unarchive plugin to plugin list:
 ```clojure
-[org.clojars.jj/unarchive "1.0.0"]
+[org.clojars.jj/unarchive "1.0.1"]
 ```
 
 ## Usage
