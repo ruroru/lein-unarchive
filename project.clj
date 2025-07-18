@@ -1,4 +1,4 @@
-(defproject org.clojars.jj/unarchive "1.0.1"
+(defproject org.clojars.jj/unarchive "1.0.2-SNAPSHOT"
   :description "A Leiningen plugin to extract tar.gz and zip archives"
   :url "https://github.com/ruroru/lein-unarchive"
   :license {:name "EPL-2.0"
