@@ -8,7 +8,7 @@
                                     :username :env/clojars_user
                                     :password :env/clojars_pass}]]
 
-  :dependencies [[org.clojure/clojure "1.12.0"]
+  :dependencies [[org.clojure/clojure "1.12.3"]
                  [org.apache.commons/commons-compress "1.25.0"]
                  [commons-io/commons-io "2.19.0"]
                  [org.clojars.jj/surykatka "1.3.0"]]
