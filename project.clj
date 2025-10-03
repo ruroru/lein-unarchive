@@ -10,7 +10,7 @@
 
   :dependencies [[org.clojure/clojure "1.12.0"]
                  [org.apache.commons/commons-compress "1.25.0"]
-                 [commons-io/commons-io "2.19.0"]
+                 [commons-io/commons-io "2.20.0"]
                  [org.clojars.jj/surykatka "1.3.0"]]
   :plugins [[org.clojars.jj/bump "1.0.4"]
             [org.clojars.jj/bump-md "1.0.0"]
